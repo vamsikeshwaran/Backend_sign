@@ -1,0 +1,12 @@
+Flask==2.1.1
+moviepy==1.0.3
+SpeechRecognition==3.8.1
+firebase-admin==5.2.0
+google-cloud-firestore==2.5.2
+google-cloud-storage==1.42.3
+absl-py==2.0.0
+addict==2.4.0
+aiohttp==3.8.6
+aiohttp-retry==2.8.3
+aioice==0.9.0
+aiortc==1.9.0
